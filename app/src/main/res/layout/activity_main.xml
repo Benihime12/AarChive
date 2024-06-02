@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#374375"
+    android:backgroundTint="#374375"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/__emoji__black_cat_" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="55dp"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="#00BB6262"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <Button
+                android:id="@+id/btnMp2"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="@font/hammersmith_one"
+                android:text="Machine Problem #2"
+                android:textColor="@color/colorPrimary"
+                android:stateListAnimator="@animator/button_click_effect"
+                />
+
+            <Button
+                android:id="@+id/btnMp5"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="@font/hammersmith_one"
+                android:text="Machine Problem #5"
+                android:textColor="@color/colorPrimary"
+                android:stateListAnimator="@animator/button_click_effect"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#00ED6F6F"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <Button
+                android:id="@+id/btnMp4"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="@font/hammersmith_one"
+                android:text="Machine Problem #4"
+                android:textColor="@color/colorPrimary"
+                android:stateListAnimator="@animator/button_click_effect"/>
+
+            <Button
+                android:id="@+id/btnMp6"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/custom_button"
+                android:fontFamily="@font/hammersmith_one"
+                android:text="Machine Problem #6"
+                android:textColor="@color/colorPrimary"
+                android:stateListAnimator="@animator/button_click_effect"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout2"
+                    android:layout_width="match_parent"
+                    android:layout_height="5dp"
+                    android:background="#895159"
+                    android:orientation="horizontal"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/linearLayout"></LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal"
+                    android:padding="10dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:background="#00ED6F6F"
+                        android:orientation="vertical"
+                        android:padding="5dp">
+
+                        <Button
+                            android:id="@+id/btnGE1"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #1"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE3"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #3"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE5"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #5"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE7"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #7"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE9"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #9"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE11"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #11"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnappIcon"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Application Icon"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="2dp"
+                        android:layout_weight="1"
+                        android:background="#00BB6262"
+                        android:orientation="vertical"
+                        android:padding="5dp">
+
+                        <Button
+                            android:id="@+id/btnGE2"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #2"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE4"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #4"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE6"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #6"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE8"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #8"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnGE10"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Guided Exercise #10"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnAddImages"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="Adding Images"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+
+                        <Button
+                            android:id="@+id/btnsqlite"
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginBottom="5dp"
+                            android:background="@drawable/custom_button"
+                            android:fontFamily="@font/hammersmith_one"
+                            android:text="SQLite"
+                            android:textColor="@color/colorPrimary"
+                            android:stateListAnimator="@animator/button_click_effect"/>
+                    </LinearLayout>
+                </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

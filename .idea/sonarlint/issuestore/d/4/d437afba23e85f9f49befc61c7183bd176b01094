@@ -1,0 +1,20 @@
+
+w
+java:S1192+"ZDefine a constant instead of duplicating this literal "Please enter both numbers" 4 times.(¸ÔÍß8øÌªíü1
+r
+java:S11923"PDefine a constant instead of duplicating this literal "The Result is: " 4 times.(×˜¯İüÿÿÿÿ8‰Íªíü1
+E
+java:S1604"(Make this anonymous inner class a lambda(›¿ˆ8‰Íªíü1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÄîşúÿÿÿÿ8Ëë—íü1
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¤ªˆûÿÿÿÿ8æÏªíü1
+M
+java:S1172%"+Remove this unused method parameter "view".(í¤ªˆûÿÿÿÿ8¨Ğªíü1
+o	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»­´šüÿÿÿÿ8ËÑªíü1
+M
+java:S1172<"+Remove this unused method parameter "view".(»­´šüÿÿÿÿ8ËÑªíü1
+j	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÅ­8ĞÑªíü1
+H
+java:S1172S"+Remove this unused method parameter "view".(ıÅ­8ĞÑªíü1
+j	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ™®º8ĞÑªíü1
+H
+java:S1172j"+Remove this unused method parameter "view".(µ™®º8ĞÑªíü1

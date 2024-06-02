@@ -1,0 +1,26 @@
+
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹¥æ‚úÿÿÿÿ8µçÍ÷ü1
+J
+java:S16042"(Make this anonymous inner class a lambda(øéšÿÿÿÿÿ8ÅçÍ÷ü1
+J
+java:S1604d"(Make this anonymous inner class a lambda(ñ øûÿÿÿÿ8ÅçÍ÷ü1
+E
+java:S1604m"(Make this anonymous inner class a lambda(„¬İ™8ÅçÍ÷ü1
+J
+java:S1604_"(Make this anonymous inner class a lambda(ìóˆÃşÿÿÿÿ8ÅçÍ÷ü1
+F
+java:S1604š"(Make this anonymous inner class a lambda(Õä8ÅçÍ÷ü1
+F
+java:S1604ª"(Make this anonymous inner class a lambda(Õä8ÅçÍ÷ü1
+F
+java:S1604‚"(Make this anonymous inner class a lambda(Õä8ÅçÍ÷ü1
+F
+java:S1604´"(Make this anonymous inner class a lambda(„¬İ™8ÅçÍ÷ü1
+J
+java:S1604}"(Make this anonymous inner class a lambda(·„„¾şÿÿÿÿ8ÅçÍ÷ü1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ºÄîşúÿÿÿÿ8ÅçÍ÷ü1
+m	java:S116"QRename this field "Prelim" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‘şë8µéÍ÷ü1
+n	java:S116"RRename this field "Midterm" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã®ÿß8¸éÍ÷ü1
+r	java:S116"QRename this field "Finals" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Øš—üÿÿÿÿ8¸éÍ÷ü1
+j	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( âÄã8êÍ÷ü1
+F	java:S108¥")Either remove or fill this block of code.(”ı¾8½ëÍ÷ü1

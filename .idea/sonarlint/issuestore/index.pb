@@ -1,0 +1,21 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+h
+8app/src/main/java/com/example/aarchive/MainActivity.java,f\b\fb16fde95691c4d20f833df07424eaecd869c5fc
+h
+8app/src/main/java/com/example/aarchive/SplashScreen.java,1\3\13fa22b3a4aef1a6070a2b4015517595fe1b2579
+v
+Fapp/src/main/java/com/example/aarchive/MachineProblems/Calculator.java,d\4\d437afba23e85f9f49befc61c7183bd176b01094
+Å
+Qapp/src/main/java/com/example/aarchive/MachineProblems/FourthHandsOnExercise.java,4\b\4b3c4a175bdbd49234a30644073197c9b2150bbb
+Ä
+Papp/src/main/java/com/example/aarchive/MachineProblems/FifthHandsOnExercise.java,2\b\2b6801cf55452376fcc572eef5582058db92f205
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+z
+Japp/src/main/java/com/example/aarchive/MachineProblems/SummaryDetails.java,f\2\f2b619d354c4c0c5ad96b59a33ee6e4e0bdfd246
+t
+Dapp/src/main/java/com/example/aarchive/MachineProblems/Employee.java,a\3\a31413c6c5b21c70f77a3495960573a4ee29cd8d
+Ä
+Papp/src/main/java/com/example/aarchive/MachineProblems/SixthHandsOnExercise.java,1\1\11d40e7fe995c48529f508ec120804a4d4c300d1
