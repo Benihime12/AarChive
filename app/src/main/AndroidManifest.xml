@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".GuidedExercises.SeventhGuidedExercise"
+            android:exported="false" />
+        <activity
+            android:name=".GuidedExercises.SixthGuidedExercise"
+            android:exported="false" />
+        <activity
             android:name=".GuidedExercises.FifthGuidedExercise"
             android:exported="false" />
         <activity

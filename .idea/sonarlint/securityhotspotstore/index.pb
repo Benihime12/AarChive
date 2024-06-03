@@ -29,3 +29,5 @@ Oapp/src/main/java/com/example/aarchive/GuidedExercises/ThirdGuidedExercise.java
 Papp/src/main/java/com/example/aarchive/GuidedExercises/FourthGuidedExercise.java,e\f\ef9e9e6df899e06defa7f44052a73f6e10e86b50
 
 Oapp/src/main/java/com/example/aarchive/GuidedExercises/FifthGuidedExercise.java,2\0\202b6247731cbe9aefd13f2d571a796376575751
+
+Oapp/src/main/java/com/example/aarchive/GuidedExercises/SixthGuidedExercise.java,f\1\f13ebff6bd8b991f6a7102021fb5da46db45e34d

@@ -1,4 +1,12 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à–³ı8Ãëçı1
+K
+java:S1066X"/Merge this if statement with the enclosing one.(Ğ×£q8€â„êı1
+J
+java:S1604 "(Make this anonymous inner class a lambda(¦÷œšÿÿÿÿÿ8â„êı1
+E
+java:S1604="(Make this anonymous inner class a lambda(†£°î8â„êı1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à–³ı8üˆ…êı1
 c
-java:S1659"ADeclare "blue" and all following declarations on a separate line.(ïÌĞÎûÿÿÿÿ8Ó’ëçı1
+java:S1659"ADeclare "blue" and all following declarations on a separate line.(ïÌĞÎûÿÿÿÿ8Íã„êı1
+Q
+java:S1874,"/Remove this use of "Handler"; it is deprecated.(§çµüÿÿÿÿ8Œä„êı1
