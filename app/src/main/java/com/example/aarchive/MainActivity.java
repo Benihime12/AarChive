@@ -7,7 +7,9 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.aarchive.GuidedExercises.FifthGuidedExercise;
 import com.example.aarchive.GuidedExercises.FirstGuidedExercise;
+import com.example.aarchive.GuidedExercises.FourthGuidedExercise;
 import com.example.aarchive.GuidedExercises.SecondGuidedExercise;
 import com.example.aarchive.GuidedExercises.ThirdGuidedExercise;
 import com.example.aarchive.MachineProblems.Calculator;
@@ -30,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         Button btnGE1 = findViewById(R.id.btnGE1);
         Button btnGE2 = findViewById(R.id.btnGE2);
         Button btnGE3 = findViewById(R.id.btnGE3);
+        Button btnGE4 = findViewById(R.id.btnGE4);
+        Button btnGE5 = findViewById(R.id.btnGE5);
 
         // Set an OnClickListener on the Button
         btnMp2.setOnClickListener(new View.OnClickListener() {
@@ -84,6 +88,22 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, ThirdGuidedExercise.class);
+                startActivity(intent);
+            }
+        });
+
+        btnGE4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, FourthGuidedExercise.class);
+                startActivity(intent);
+            }
+        });
+
+        btnGE5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, FifthGuidedExercise.class);
                 startActivity(intent);
             }
         });

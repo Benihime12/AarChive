@@ -56,7 +56,7 @@ public class SecondGuidedExercise extends AppCompatActivity {
                 text.setText("Hello " + nameText + "! \nWelcome to Android Development!");
 
                 toast = new Toast(getApplicationContext());
-                toast.setGravity(Gravity.CENTER, 0, 0);
+                toast.setGravity(Gravity.BOTTOM | Gravity.CENTER_HORIZONTAL, 0, 300);
                 toast.setDuration(Toast.LENGTH_SHORT);
                 toast.setView(layout);
                 toast.show();

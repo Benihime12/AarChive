@@ -19,3 +19,13 @@ t
 Dapp/src/main/java/com/example/aarchive/MachineProblems/Employee.java,a\3\a31413c6c5b21c70f77a3495960573a4ee29cd8d
 €
 Papp/src/main/java/com/example/aarchive/MachineProblems/SixthHandsOnExercise.java,1\1\11d40e7fe995c48529f508ec120804a4d4c300d1
+
+Oapp/src/main/java/com/example/aarchive/GuidedExercises/FirstGuidedExercise.java,8\1\81ecde62ceefada4f339d690e9f25cbdac0ad2a8
+€
+Papp/src/main/java/com/example/aarchive/GuidedExercises/SecondGuidedExercise.java,9\2\921b822bb966f1818a5eac21aba04e1218fb66ab
+
+Oapp/src/main/java/com/example/aarchive/GuidedExercises/ThirdGuidedExercise.java,e\4\e432241c3f70ef1e5692fe116f9abe51d86fc4c5
+€
+Papp/src/main/java/com/example/aarchive/GuidedExercises/FourthGuidedExercise.java,e\f\ef9e9e6df899e06defa7f44052a73f6e10e86b50
+
+Oapp/src/main/java/com/example/aarchive/GuidedExercises/FifthGuidedExercise.java,2\0\202b6247731cbe9aefd13f2d571a796376575751
