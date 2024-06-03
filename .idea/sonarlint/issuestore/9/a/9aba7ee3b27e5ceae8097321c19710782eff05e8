@@ -1,0 +1,19 @@
+
+E
+java:S16040"(Make this anonymous inner class a lambda(‡ÍØ˜8éÏ¿ùı1
+E
+java:S1604N"(Make this anonymous inner class a lambda(±Ä­”8Ä§¤ûı1
+F
+java:S1604‹"(Make this anonymous inner class a lambda(®İû8ØÎÀùı1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à–³ı8ùÏ¿ùı1
+C
+java:S1659"!Declare "age" on a separate line.(„éïŠÿÿÿÿÿ8 Ò¿ùı1
+A
+java:S1659"$Declare "female" on a separate line.(±ÌÉë8 Ò¿ùı1
+f
+java:S1659"DDeclare "intcomp" and all following declarations on a separate line.(Ú´È¦şÿÿÿÿ8 Ò¿ùı1
+b
+java:S1659&"EDeclare "subjects" and all following declarations on a separate line.(çĞ÷8 Ò¿ùı1
+W
+java:S11173":Rename "intent" which hides the field declared at line 33.(ëô¼™8ÙĞ£ûı1
+J	java:S108q")Either remove or fill this block of code.(Àøåûÿÿÿÿ8¨Ö¿ùı1

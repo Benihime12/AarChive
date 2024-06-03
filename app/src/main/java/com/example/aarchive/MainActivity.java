@@ -7,12 +7,17 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.aarchive.GuidedExercises.EigthGuidedExercise;
+import com.example.aarchive.GuidedExercises.EleventhGuidedExercise;
+import com.example.aarchive.GuidedExercises.EleventhPracticeExercise2;
 import com.example.aarchive.GuidedExercises.FifthGuidedExercise;
 import com.example.aarchive.GuidedExercises.FirstGuidedExercise;
 import com.example.aarchive.GuidedExercises.FourthGuidedExercise;
+import com.example.aarchive.GuidedExercises.NinthGuidedExercise;
 import com.example.aarchive.GuidedExercises.SecondGuidedExercise;
 import com.example.aarchive.GuidedExercises.SeventhGuidedExercise;
 import com.example.aarchive.GuidedExercises.SixthGuidedExercise;
+import com.example.aarchive.GuidedExercises.TenthGuidedExercise;
 import com.example.aarchive.GuidedExercises.ThirdGuidedExercise;
 import com.example.aarchive.MachineProblems.Calculator;
 import com.example.aarchive.MachineProblems.FifthHandsOnExercise;
@@ -40,6 +45,11 @@ public class MainActivity extends AppCompatActivity {
         Button btnGE5 = findViewById(R.id.btnGE5);
         Button btnGE6 = findViewById(R.id.btnGE6);
         Button btnGE7 = findViewById(R.id.btnGE7);
+        Button btnGE8 = findViewById(R.id.btnGE8);
+        Button btnGE9 = findViewById(R.id.btnGE9);
+        Button btnGE10 = findViewById(R.id.btnGE10);
+        Button btnGE11 = findViewById(R.id.btnGE11);
+        Button btnAddImages = findViewById(R.id.btnAddImages);
 
         // Set an OnClickListener on the Button
         btnMp2.setOnClickListener(new View.OnClickListener() {
@@ -129,5 +139,46 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        btnGE8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, EigthGuidedExercise.class);
+                startActivity(intent);
+            }
+        });
+
+        btnGE9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, NinthGuidedExercise.class);
+                startActivity(intent);
+            }
+        });
+
+        btnGE10.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, TenthGuidedExercise.class);
+                startActivity(intent);
+            }
+        });
+
+        btnGE11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, EleventhGuidedExercise.class);
+                startActivity(intent);
+            }
+        });
+
+        btnAddImages.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, EleventhPracticeExercise2.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }

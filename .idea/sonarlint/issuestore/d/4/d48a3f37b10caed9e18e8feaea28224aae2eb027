@@ -1,0 +1,28 @@
+
+J
+java:S1604-"(Make this anonymous inner class a lambda(ŸÉ±œÿÿÿÿÿ8¢Šğı1
+J
+java:S16049"(Make this anonymous inner class a lambda(™†İ±ÿÿÿÿÿ8èæ¬ğı1
+J
+java:S1604E"(Make this anonymous inner class a lambda(ıÑóÎüÿÿÿÿ8èæ¬ğı1
+E
+java:S1604R"(Make this anonymous inner class a lambda(„ÑñŒ8èæ¬ğı1
+J
+java:S1604`"(Make this anonymous inner class a lambda(íÍà©şÿÿÿÿ8‘ıïı1
+E
+java:S1604g"(Make this anonymous inner class a lambda(ìñĞó8‘ıïı1
+J
+java:S1604["(Make this anonymous inner class a lambda(Şğ¿¯ùÿÿÿÿ8‰²¸ğı1
+J
+java:S1604z"(Make this anonymous inner class a lambda(íÍà©şÿÿÿÿ8‘ıïı1
+F
+java:S1604€"(Make this anonymous inner class a lambda(ìñĞó8‘ıïı1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à–³ı8‘ıïı1
+@
+java:S1659"#Declare "close" on a separate line.(¶’€è8Åç¬ğı1
+T
+java:S1172M"7Remove this unused method parameter "durationInMillis".(³ƒÏ8»¢­ğı1
+L
+java:S1874R"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ8åç¬ğı1
+l
+java:S1874w"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(œƒƒ©ùÿÿÿÿ8ÿ‘ıïı1

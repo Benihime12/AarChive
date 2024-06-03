@@ -1,0 +1,14 @@
+
+i
+java:S11927"GDefine a constant instead of duplicating this literal "Name: " 3 times.(¥ουνϊÿÿÿÿ8§τύ1
+D
+java:S1604&"(Make this anonymous inner class a lambda(­‚p8§τύ1
+E
+java:S1604I"(Make this anonymous inner class a lambda(„Ρρ8§τύ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΰ–³ύ8Υοτύ1
+£
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ρΆ®Κψÿÿÿÿ8Ϋ‚§τύ1
+T
+java:S1172D"7Remove this unused method parameter "durationInMillis".(³ƒΟ8ξª§τύ1
+L
+java:S1874I"/Remove this use of "Handler"; it is deprecated.(„Ρρ8¨ƒ§τύ1
