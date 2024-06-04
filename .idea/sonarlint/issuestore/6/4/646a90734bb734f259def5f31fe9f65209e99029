@@ -1,0 +1,30 @@
+
+i
+java:S1192V"GDefine a constant instead of duplicating this literal "Error!" 4 times.(°¢ˆÎùÿÿÿÿ8Èıñş1
+j
+java:S1192\"MDefine a constant instead of duplicating this literal "Information!" 6 times.( Ó‘µ8Øıñş1
+‰
+java:S1192l"mDefine a constant instead of duplicating this literal "SELECT * FROM tbl_student WHERE student_id =" 3 times.(ÅËì8Øıñş1
+u
+java:S1192q"SDefine a constant instead of duplicating this literal "Invalid Student ID" 3 times.(àõÌ½øÿÿÿÿ8‡şñş1
+|
+java:S1192g"ZDefine a constant instead of duplicating this literal "Please Enter a Student ID" 3 times.(æØóıÿÿÿÿ8‡şñş1
+E
+java:S1604("(Make this anonymous inner class a lambda(©š¿¾8‡şñş1
+E
+java:S1604Q"(Make this anonymous inner class a lambda(ò§Ú“8–şñş1
+E
+java:S1604b"(Make this anonymous inner class a lambda(Ö¯‹¾8–şñş1
+J
+java:S1604y"(Make this anonymous inner class a lambda(àÛŸüÿÿÿÿ8–şñş1
+F
+java:S1604’"(Make this anonymous inner class a lambda(ğ®¹Ş8–şñş1
+K
+java:S1604«"(Make this anonymous inner class a lambda(Ìªõ“ûÿÿÿÿ8Ö‚ôş1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à–³ı8¦şñş1
+j
+java:S1659"HDeclare "studentName" and all following declarations on a separate line.(±ú¡åøÿÿÿÿ8âÿñş1
+f
+java:S1659"IDeclare "deleteRecord" and all following declarations on a separate line.(†¼Ÿ©8âÿñş1
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ôœÀ8âÿñş1

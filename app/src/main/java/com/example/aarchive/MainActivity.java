@@ -14,11 +14,13 @@ import com.example.aarchive.GuidedExercises.FifthGuidedExercise;
 import com.example.aarchive.GuidedExercises.FirstGuidedExercise;
 import com.example.aarchive.GuidedExercises.FourthGuidedExercise;
 import com.example.aarchive.GuidedExercises.NinthGuidedExercise;
+import com.example.aarchive.GuidedExercises.SQLiteDatabaseDemo;
 import com.example.aarchive.GuidedExercises.SecondGuidedExercise;
 import com.example.aarchive.GuidedExercises.SeventhGuidedExercise;
 import com.example.aarchive.GuidedExercises.SixthGuidedExercise;
 import com.example.aarchive.GuidedExercises.TenthGuidedExercise;
 import com.example.aarchive.GuidedExercises.ThirdGuidedExercise;
+import com.example.aarchive.GuidedExercises.TwelfthPracticeExercise;
 import com.example.aarchive.MachineProblems.Calculator;
 import com.example.aarchive.MachineProblems.FifthHandsOnExercise;
 import com.example.aarchive.MachineProblems.FourthHandsOnExercise;
@@ -50,6 +52,8 @@ public class MainActivity extends AppCompatActivity {
         Button btnGE10 = findViewById(R.id.btnGE10);
         Button btnGE11 = findViewById(R.id.btnGE11);
         Button btnAddImages = findViewById(R.id.btnAddImages);
+        Button btnappIcon = findViewById(R.id.btnappIcon);
+        Button btnsqlite = findViewById(R.id.btnsqlite);
 
         // Set an OnClickListener on the Button
         btnMp2.setOnClickListener(new View.OnClickListener() {
@@ -176,6 +180,22 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, EleventhPracticeExercise2.class);
+                startActivity(intent);
+            }
+        });
+
+        btnappIcon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, TwelfthPracticeExercise.class);
+                startActivity(intent);
+            }
+        });
+
+        btnsqlite.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, SQLiteDatabaseDemo.class);
                 startActivity(intent);
             }
         });

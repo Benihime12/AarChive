@@ -47,3 +47,7 @@ Rapp/src/main/java/com/example/aarchive/GuidedExercises/EleventhGuidedExercise.j
 Tapp/src/main/java/com/example/aarchive/GuidedExercises/Ge11IntentResultActivity.java,f\5\f5ef5f89447676dcc5228f77cbfaae8f0cf5fa2a
 …
 Uapp/src/main/java/com/example/aarchive/GuidedExercises/EleventhPracticeExercise2.java,2\8\28917649c890d70d80b8d92e36a3a9241870c56c
+ƒ
+Sapp/src/main/java/com/example/aarchive/GuidedExercises/TwelfthPracticeExercise.java,4\e\4e11940dc91b0893a00d5aca6c70fb0fe77e9c8b
+~
+Napp/src/main/java/com/example/aarchive/GuidedExercises/SQLiteDatabaseDemo.java,6\4\646a90734bb734f259def5f31fe9f65209e99029
