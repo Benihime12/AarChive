@@ -134,10 +134,10 @@ public class SixthHandsOnExercise extends AppCompatActivity {
                     cvStatus = "Single";
                 } else if (checkedId == R.id.rb2) {
                     TaxRate = 0.05;
-                    cvStatus = "Married";
+                    cvStatus = "Widowed";
                 } else if (checkedId == R.id.rb3) {
                     TaxRate = 0.05;
-                    cvStatus = "Widowed";
+                    cvStatus = "Married";
                 }
             }
         });
